@@ -1,0 +1,10 @@
+{
+    "landingPage": "\/wp-admin\/edit.php",
+    "preferredVersions": {
+        "php": "7.4",
+        "wp": "5.9"
+    },
+    "phpExtensionBundles": [
+        "kitchen-sink"
+    ]
+}
